@@ -8,14 +8,16 @@ Welcome to my Deep Learning Notebooks repository! Here, you'll find a collection
 
 This repository is organized into the following categories for easy navigation. Feel free to explore and learn at your own pace.  
 
-| **Folder Name**         | **Description**                                                                                      |  
-|--------------------------|------------------------------------------------------------------------------------------------------|  
-| [ANN](https://github.com/SHRISH01/Deep-Learning-Basics/tree/main/ANN)                | Dive into the world of Artificial Neural Networks. From basic structures to training techniques.    |  
-| [CNN](https://github.com/SHRISH01/Deep-Learning-Basics/tree/main/CNN)                | Explore Convolutional Neural Networks for image processing and computer vision tasks.               |  
-| [PyTorch Demos](https://github.com/SHRISH01/Deep-Learning-Basics/tree/main/Pytorch)      | Hands-on tutorials and experiments with PyTorch, a popular deep learning framework.                 |  
-| [More Coming Soon!](#)  | Stay tuned for additional topics, including RNNs, GANs, and Transformers. 🎉                        |  
+| **Folder Name**                              | **Description**                                                                                       |  
+|----------------------------------------------|-------------------------------------------------------------------------------------------------------|  
+| [ANN](https://github.com/SHRISH01/Deep-Learning-Basics/tree/main/ANN)                | Dive into the world of Artificial Neural Networks. From basic structures to training techniques.       |  
+| [CNN](https://github.com/SHRISH01/Deep-Learning-Basics/tree/main/CNN)                | Explore Convolutional Neural Networks for image processing and computer vision tasks.                  |  
+| [PyTorch Demos](https://github.com/SHRISH01/Deep-Learning-Basics/tree/main/Pytorch)  | Hands-on tutorials and experiments with PyTorch, a popular deep learning framework.                   |  
+| [Transformers](https://github.com/SHRISH01/Deep-Learning-Basics/tree/main/Transformers) | Explore Transformer models, including demos for NLP-based tasks.                                      |  
+| [More Coming Soon!](#)                        | Stay tuned for additional topics, including RNNs and GANs. 🎉                                         |  
 
----
+
+------------
 
 ## 🧠 Why This Repository?  
 
