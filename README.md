@@ -17,7 +17,7 @@ This repository is organized into the following categories for easy navigation. 
 | [More Coming Soon!](#)                        | Stay tuned for additional topics, including RNNs and GANs. 🎉                                         |  
 
 
-------------
+-----------
 
 ## 🧠 Why This Repository?  
 
