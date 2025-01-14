@@ -7,7 +7,7 @@ Welcome to my Deep Learning Notebooks repository! Here, you'll find a collection
 ## 🗂️ Repository Structure   
 
 This repository is organized into the following categories for easy navigation. Feel free to explore and learn at your own pace.  
-
+ 
 | **Folder Name**                              | **Description**                                                                                       |  
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------|  
 | [ANN](https://github.com/SHRISH01/Deep-Learning-Basics/tree/main/ANN)                | Dive into the world of Artificial Neural Networks. From basic structures to training techniques.       |  
