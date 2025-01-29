@@ -5,7 +5,7 @@ Welcome to my Deep Learning Notebooks repository! Here, you'll find a collection
 ---- 
  
 ## 🗂️ Repository Structure   
- 
+  
 This repository is organized into the following categories for easy navigation. Feel free to explore and learn at your own pace.   
  
 | **Folder Name**                              | **Description**                                                                                       |  
